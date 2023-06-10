@@ -1,1 +1,1 @@
-# script_template.py
+# python script template 
